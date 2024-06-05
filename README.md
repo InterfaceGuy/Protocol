@@ -1,1 +1,2 @@
 # Protocol
+A protocol is a set of rules or limitations that enable a procedure to be carried out effectively, such as communication protocols like the email system or the English language. By adhering to these protocols, entities are granted the freedom to interact and exchange information efficiently within a defined framework.
